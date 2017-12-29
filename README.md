@@ -11,5 +11,5 @@ This project aims to build a News indexer with the following goals:
 
 This is the starter code and tests for CSE 535 Fall 2014 Project 1 at State University of Buffalo at New York
 
-Cloned from [here] (https://github.com/nicklondhe/newsindexer).
+Cloned from [here](https://github.com/nicklondhe/newsindexer).
 
